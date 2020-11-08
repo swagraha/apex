@@ -1,4 +1,5 @@
 // JavaScript Document
+//<![CDATA[
 ! function(t) {
 	"use strict";
 	Date.now = Date.now || function() {
@@ -165,3 +166,4 @@
 		}
 	}
 }(jQuery);
+//]]>
